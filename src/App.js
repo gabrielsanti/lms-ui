@@ -1,5 +1,7 @@
+// @ts-check
+
 /*import Login from "./containers/login/login";*/
-import Courses from "./containers/courses/courses";
+import Courses from "./containers/courses/courses"
 
 function App() {
   return (
@@ -7,7 +9,7 @@ function App() {
       {/* <Login /> */}
       <Courses />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
