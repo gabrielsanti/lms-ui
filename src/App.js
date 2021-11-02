@@ -1,5 +1,3 @@
-// @ts-check
-
 /*import Login from "./containers/login/login";*/
 import Courses from "./containers/courses/courses"
 
